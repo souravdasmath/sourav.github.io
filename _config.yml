@@ -1,0 +1,36 @@
+# Site settings
+title: ICSP 2021
+
+url: 'samplewebsite123.github.io'
+baseurl: ''
+
+conference_title: "International Conference on Security & Privacy"
+conference_title_short: "ICSP"
+year: "2021"
+infoline_text: ""
+
+# Color settings
+color:
+  primary-dark: '#3D1419'
+  title: '#031a2d'
+  links: '#219ab3'
+  accent: '#B89E8F'
+
+# conference data
+background-image: img/nb1.png
+directions-link: http://directions.link.com
+map-embed: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d919.6704275073748!2d86.1440945!3d22.7771905!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd87b53fadcd771a1!2sNational%20Institute%20of%20Technology%2C%20Jamshedpur!5e0!3m2!1sen!2sin!4v1618123409120!5m2!1sen!2sin
+organizer-email : organizer@email.com
+registration-page : http://registration.com
+upload-form: http://paperupload.com
+
+collections:
+  - invited_speakers
+  - organizers
+  - sessions
+  - papers
+  - advisors
+
+# Build settings
+markdown: kramdown
+permalink: pretty
